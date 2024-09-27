@@ -232,6 +232,82 @@ public class Main {
 
         // print reverse of the number
 
+//        int n = 10999;
+//        while(n>0){
+//            int lastDigit = n % 10;
+//            System.out.print(lastDigit+" ");
+//            n /=10;
+//        }
+
+        // Revers original Number
+
+//        int n = 10999;
+//        int rev=0;
+//        while (n>0){
+//            int lastDigit = n % 10;
+//            rev = (rev*10)+ lastDigit;
+//            n/=10;
+//        }
+//        System.out.println(rev);
+
+        // Do while loop
+
+        /*
+        do{
+
+        // some work
+        } while(condition)
+
+         */
+//       int count =1;
+//       do{
+//           System.out.println("Hello");
+//           count++;
+//       }while (count<=10);
+
+
+        // Break use exit code
+        // continue use scipe code
+
+
+        // Keep entering number till user enter 10 multiple
+
+//        Scanner sc = new Scanner(System.in);
+//        do{
+//            System.out.println("Enter the number....");
+//            int n = sc.nextInt();
+//            if(n%10 == 0){
+//                break;
+//            }
+//            System.out.println(n);
+//        }while (true);
+
+        // continue
+//        for (int i=0; i<=5; i++){
+//            if(i == 3){
+//                continue;
+//            }
+//            System.out.println(i);
+//        }
+//
+//        // Display number and scipe multiple of 10
+//
+//        Scanner sc = new Scanner(System.in);
+//        do{
+//            System.out.println("Enter the number ...");
+//            int n = sc.nextInt();
+//            if(n%10 == 0){
+//
+//                continue;
+//
+//            }
+//            System.out.println("Number was " + n);
+//        }while (true);
+
+        // Check number is prime or not
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        if()
 
     }
 }
