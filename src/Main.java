@@ -305,9 +305,48 @@ public class Main {
 //        }while (true);
 
         // Check number is prime or not
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        if()
+        // n = square(n)*square(n)
+
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        boolean isPrime = true;
+//        if(n  == 2){
+//            System.out.println("n is prime");
+//        }else {
+//            for (int i = 2; i <= Math.sqrt(n); i++) {
+//                if (n % i == 0) { // n is multiple of i
+//                    isPrime = false;
+//                }
+//            }
+//            if (isPrime == true) {
+//                System.out.println("n is prime");
+//            } else {
+//                System.out.println("n is not Prime");
+//            }
+//        }
+
+
+
+        // Chapter Function
+
+        // it like button wich use unlimited time
+        // it is block of code
+        // it is reusable code
+
+        // syntax
+
+        /*
+        returnType name(){
+        // body
+        return statement
+        }
+         */
+
+        // when need some work multiple time than use function  wich build reusable
+
+
+
+
 
     }
 }
